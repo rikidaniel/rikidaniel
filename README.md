@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Riki Daniel
 
-<!--
-**rikidaniel/rikidaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🚀 Angular | Node.js | Laravel
+📍 Indonesia
 
-Here are some ideas to get you started:
+## Tech Stack
+![Angular](https://img.shields.io/badge/Angular-red)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+<!-- stats -->
+
+## Contact
+- Portfolio: https://domainkamu.com
+- LinkedIn: ...
