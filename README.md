@@ -86,8 +86,8 @@ I'm a passionate full-stack developer from **Indonesia** with expertise in build
 
 I'm always open to interesting projects and collaborations!
 
-- 📧 **Email**: your.email@example.com
-- 💼 **Portfolio**: https://yourdomain.com
+- 📧 **Email**: rikidanieltanebeth@gmail.com
+- 💼 **Portfolio**: https://rikidaniel.com
 - 🔗 **LinkedIn**: [linkedin.com/in/rikidaniel](https://linkedin.com)
 - 🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com)
 
