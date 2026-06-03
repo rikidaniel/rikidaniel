@@ -49,8 +49,8 @@ I'm a passionate full-stack developer from **Indonesia** with expertise in build
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikidaniel&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikidaniel&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikidaniel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikidaniel&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="160" />
 </div>
 
 ---
