@@ -1,40 +1,35 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:3178C6&height=120&section=header&text=Riki%20Daniel&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%C2%B7%20Indonesia&descAlignY=85&descSize=14" />
-
 </div>
 
 ```typescript
 const riki: Developer = {
-  name       : "Riki Daniel",
-  role       : "Full Stack Developer",
-  location   : "Indonesia 🇮🇩",
-  languages  : ["TypeScript", "JavaScript", "Python"],
-  focus      : ["Web Applications", "REST APIs", "Microservices"],
-  learning   : "Cloud Native & System Design",
-  openTo     : "Collaborations & Interesting Projects",
+  name     : "Riki Daniel",
+  role     : "Full Stack Developer",
+  location : "Indonesia 🇮🇩",
+  languages: ["TypeScript", "JavaScript", "Python"],
+  focus    : ["Web Applications", "REST APIs", "Microservices"],
+  learning : "Cloud Native & System Design",
+  openTo   : "Collaborations & Interesting Projects",
 };
 ```
 
 ---
 
-## ` Stack`
+## 🛠 Stack
 
 **Frontend**
 ```
 Angular · TypeScript · RxJS · HTML5 · CSS3
 ```
-
 **Backend**
 ```
 Node.js · Express · Laravel · Python
 ```
-
 **Database**
 ```
 MySQL · PostgreSQL · MongoDB
 ```
-
 **DevOps & Tools**
 ```
 Docker · GitHub Actions · Git · CI/CD
@@ -42,7 +37,7 @@ Docker · GitHub Actions · Git · CI/CD
 
 ---
 
-## ` Projects`
+## 🚀 Projects
 
 <table>
 <tr>
@@ -69,24 +64,31 @@ Sistem autentikasi modern dengan role-based access control dan route guard manag
 
 ---
 
-## ` Stats`
+## 📊 Stats
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=rikidaniel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e&icon_color=3178C6&count_private=true" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikidaniel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rikidaniel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e&icon_color=3178C6&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikidaniel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=rikidaniel&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=1D9E75&fire=3178C6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=444444)
+<img src="https://streak-stats.demolab.com?user=rikidaniel&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=1D9E75&fire=3178C6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=444444" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikidaniel&theme=github-compact&bg_color=0d1117&color=8b949e&line=1D9E75&point=3178C6&hide_border=true" />
 
 </div>
 
 ---
 
-## ` Contact`
+## 📬 Contact
 
 <div align="center">
 
@@ -95,12 +97,12 @@ Sistem autentikasi modern dengan role-based access control dan route guard manag
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rikidaniel)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rikidanieltanebeth@gmail.com)
 
+<br/>
+
 ![visitors](https://komarev.com/ghpvc/?username=rikidaniel&style=flat-square&color=1D9E75&label=profile+views)
 
 </div>
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:1D9E75&height=80&section=footer" />
-
 </div>
